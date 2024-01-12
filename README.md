@@ -1,5 +1,5 @@
 # user_management（社員管理アプリ）
-- 作成時期：令和4年 5月～6月
+- 作成時期：令和4年 6月～7月
 - 所要時間：100時間程
 - 協力者：有　講師
 - 開発環境：Java（Servlet）、HTML（JSP）、CSS、DB（H2Console）
